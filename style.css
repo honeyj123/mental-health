@@ -1,0 +1,104 @@
+@font-face {
+    font-family: Ethiopic Addis;
+    src: url(fonts/Ethiopic Addis.ttf);
+    font-family: Ethiopic Dire Dawa;
+    src: url(font/Dire_Dawa.ttf);
+  }
+  
+  body p {
+    width: auto;
+    padding: 100px;
+    padding-top: 2%;
+    background-color: rgb(201, 205, 209);
+    font-size: 19PT;
+  }
+  h2 {font-size:25pt;}
+sub {font-size: 19pt;
+background-color: rgb(217, 223, 222);}
+
+
+  #mainheader {
+    background-image: url(IMAGE\ 6.jpg);
+    color: white;
+    height: 300px;
+    background-size:cover 800in;
+    text-align: left;
+    padding: 1%;
+    background-repeat: no-repeat;
+    width: auto;
+    font-family:fantasy;
+    font-size: 38pt;
+  }
+  #small {
+    font-size: 12pt;
+  }
+  #HOME {
+    font-family: Ethiopic Addis;
+    width: auto;
+    font-size: 50pt;
+  }
+  
+  nav {
+    text-decoration: none;
+    text-align: right;
+    color: white;
+  }
+  #pages ul {
+    list-style-type: none;
+  }
+  #pages li {
+    display: list-item;
+  }
+  
+  .button {
+    text-decoration: none;
+    color:white;
+    font-style: italic;
+    font-family: Ethiopic Addis;
+    background-size: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 0.5%;
+    justify-items: left;
+    font-size: 15pt;
+  }
+  .button:hover {
+    color: rgb(44, 39, 39);
+    background-color: black;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-size: 15pt;
+    background-size: 100%;
+    padding: 1%;
+  }
+  #story {
+    background-color: rgb(255, 254, 254, 0.3);
+    padding: 2%;
+    font-family: Ethiopic Dire Dawa;
+    color: black;
+    font-size: 12pt;
+  }
+  
+  #story01 {
+    font-family: Ethiopic Addis;
+    font-size: 20pt;
+  }
+  
+  #story02 {
+    font-family: Ethiopic Addis;
+    font-size: 20pt;
+  }
+  
+  #story03 {
+    font-family: Ethiopic Addis;
+    font-size: 20pt;
+  }
+  
+  #story04 {
+    font-family: Ethiopic Addis;
+    font-size: 20pt;
+  }
+  
